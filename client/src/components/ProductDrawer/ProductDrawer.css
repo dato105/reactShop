@@ -1,0 +1,43 @@
+h2{
+    color: black;
+    margin-left: 40px;
+    text-decoration: underline;
+}
+
+.remPlusDrawer{
+margin-left: 20px;
+margin-top: 50px;
+margin-right: 30px;
+}
+.productDrawer{
+    flex-direction: right;
+
+
+}
+h3.priceDrawer{
+    color: rgb(102, 98, 98);
+    margin-left: 10px;
+
+}
+.imgCardDrawer {
+    max-width: 100px;
+    height: 100px;
+    background-color: powderblue;
+    margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  display: block;
+
+  }
+  #card{
+    box-shadow: none;
+  }
+ 
+ 
+ 
+ .titleDrawer{
+margin-top: 50px;
+
+
+ }
+  

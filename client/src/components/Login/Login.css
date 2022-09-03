@@ -1,0 +1,53 @@
+
+    .signInHead{
+        margin-top: 20px;
+    }
+    
+    .btnSignIn{
+        object-fit: fill;
+        width: 450px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        font-size: 17px;
+        background-color: rgb(51, 63, 234);
+        margin-top:30px ;
+    }
+    
+    .btnSignIn:hover{
+        background-color: rgb(33, 182, 223);
+        color: black;
+    }
+    .btnSignUpIn{
+        color: black;
+        text-align: left;
+        margin-left: 30px;
+    }
+    hr {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        border: 0;
+        border-top: 30px solid rgba(0, 0, 0, 0.1);
+
+      }
+      .signInHead2{
+        margin-left: 150px;
+        margin-right: 200px;
+    }
+
+    .btnRegister{
+        object-fit: fill;
+        width: 450px;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        font-size: 17px;
+        background-color: rgb(51, 63, 234);
+        margin: 20px;
+        margin-left: 10%;
+    }
+
+    .btnRegister:hover{
+        background-color: rgb(33, 182, 223);
+        color: black;
+    }
